@@ -53,11 +53,11 @@ export default function App() {
               <a href="#features" className="hover:text-cyan-400 transition-colors">Features</a>
               <a href="#roadmap" className="hover:text-cyan-400 transition-colors">Roadmap</a>
               <a href="#community" className="hover:text-cyan-400 transition-colors">Community</a>
-              <a href="https://github.com/yourusername/rise" className="hover:text-cyan-400 transition-colors flex items-center gap-1" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/The-Low-Code-Foundation/rise" className="hover:text-cyan-400 transition-colors flex items-center gap-1" target="_blank" rel="noopener noreferrer">
                 <Github className="w-4 h-4" /> GitHub
               </a>
             </div>
-            <a href="https://discord.gg/yourinvite" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-gradient-to-r from-cyan-500 to-blue-600 rounded font-semibold hover:shadow-lg hover:shadow-cyan-500/50 transition-all flex items-center gap-2">
+            <a href="https://discord.gg/tGEhBck48m" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-gradient-to-r from-cyan-500 to-blue-600 rounded font-semibold hover:shadow-lg hover:shadow-cyan-500/50 transition-all flex items-center gap-2">
               <MessageCircle className="w-4 h-4" /> Join Discord
             </a>
           </div>
@@ -89,10 +89,10 @@ export default function App() {
               </p>
 
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-6">
-                <a href="https://github.com/yourusername/rise" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-bold text-lg hover:shadow-2xl hover:shadow-cyan-500/50 transition-all transform hover:scale-105 flex items-center gap-2">
+                <a href="https://github.com/The-Low-Code-Foundation/rise" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-bold text-lg hover:shadow-2xl hover:shadow-cyan-500/50 transition-all transform hover:scale-105 flex items-center gap-2">
                   <Star className="w-5 h-5" /> Star on GitHub
                 </a>
-                <a href="https://discord.gg/yourinvite" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-white/10 backdrop-blur rounded-lg font-bold text-lg border border-white/20 hover:bg-white/20 transition-all flex items-center gap-2">
+                <a href="https://discord.gg/tGEhBck48m" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-white/10 backdrop-blur rounded-lg font-bold text-lg border border-white/20 hover:bg-white/20 transition-all flex items-center gap-2">
                   <MessageCircle className="w-5 h-5" /> Join Discord
                 </a>
               </div>
@@ -557,7 +557,7 @@ export default function App() {
             </div>
 
             <div className="flex justify-center pt-6">
-              <a href="https://github.com/yourusername/rise" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-bold text-lg hover:shadow-2xl hover:shadow-cyan-500/50 transition-all flex items-center gap-2">
+              <a href="https://github.com/The-Low-Code-Foundation/rise" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-bold text-lg hover:shadow-2xl hover:shadow-cyan-500/50 transition-all flex items-center gap-2">
                 <Star className="w-5 h-5" /> Star on GitHub and Follow Progress
               </a>
             </div>
@@ -673,7 +673,7 @@ export default function App() {
               <p className="text-slate-400 mb-6">
                 React developers, UX designers, plugin creators—help build the future of visual development.
               </p>
-              <a href="https://github.com/yourusername/rise/issues" target="_blank" rel="noopener noreferrer" className="inline-block px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-lg font-semibold transition-all">
+              <a href="https://github.com/The-Low-Code-Foundation/rise/issues" target="_blank" rel="noopener noreferrer" className="inline-block px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-lg font-semibold transition-all">
                 View Issues on GitHub
               </a>
             </div>
@@ -686,7 +686,7 @@ export default function App() {
               <p className="text-slate-400 mb-6">
                 Chat with contributors, ask questions, share what you're building, and help shape the roadmap.
               </p>
-              <a href="https://discord.gg/yourinvite" target="_blank" rel="noopener noreferrer" className="inline-block px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-semibold hover:shadow-lg hover:shadow-cyan-500/50 transition-all">
+              <a href="https://discord.gg/tGEhBck48m" target="_blank" rel="noopener noreferrer" className="inline-block px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-semibold hover:shadow-lg hover:shadow-cyan-500/50 transition-all">
                 Join Server
               </a>
             </div>
@@ -699,7 +699,7 @@ export default function App() {
               <p className="text-slate-400 mb-6">
                 Help fund development. Get early access to features and influence the product direction.
               </p>
-              <a href="https://github.com/sponsors/yourusername" target="_blank" rel="noopener noreferrer" className="inline-block px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-lg font-semibold transition-all">
+              <a href="https://github.com/The-Low-Code-Foundation/rise" target="_blank" rel="noopener noreferrer" className="inline-block px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-lg font-semibold transition-all">
                 Learn More
               </a>
             </div>
@@ -800,7 +800,7 @@ export default function App() {
             How Rise <span className="text-cyan-400">Compares</span>
           </h2>
           <p className="text-xl text-slate-400 text-center mb-16 max-w-2xl mx-auto">
-            The only tool with all six checkmarks
+            See how Rise stacks up against the competition
           </p>
 
           <div className="max-w-4xl mx-auto overflow-x-auto">
@@ -824,9 +824,9 @@ export default function App() {
                 </tr>
                 <tr className="hover:bg-slate-800/50 transition-colors">
                   <td className="p-4">AI Generation</td>
-                  <td className="text-center p-4"><X className="w-5 h-5 text-red-400 mx-auto" /></td>
                   <td className="text-center p-4"><Check className="w-5 h-5 text-green-400 mx-auto" /></td>
-                  <td className="text-center p-4"><X className="w-5 h-5 text-red-400 mx-auto" /></td>
+                  <td className="text-center p-4"><Check className="w-5 h-5 text-green-400 mx-auto" /></td>
+                  <td className="text-center p-4"><AlertCircle className="w-5 h-5 text-yellow-400 mx-auto" /></td>
                   <td className="text-center p-4 bg-cyan-500/10"><Check className="w-5 h-5 text-cyan-400 mx-auto" /></td>
                 </tr>
                 <tr className="hover:bg-slate-800/50 transition-colors">
@@ -847,7 +847,7 @@ export default function App() {
                   <td className="p-4">Zero Lock-in</td>
                   <td className="text-center p-4"><X className="w-5 h-5 text-red-400 mx-auto" /></td>
                   <td className="text-center p-4"><Check className="w-5 h-5 text-green-400 mx-auto" /></td>
-                  <td className="text-center p-4"><X className="w-5 h-5 text-red-400 mx-auto" /></td>
+                  <td className="text-center p-4"><AlertCircle className="w-5 h-5 text-yellow-400 mx-auto" /></td>
                   <td className="text-center p-4 bg-cyan-500/10"><Check className="w-5 h-5 text-cyan-400 mx-auto" /></td>
                 </tr>
                 <tr className="hover:bg-slate-800/50 transition-colors">
@@ -857,13 +857,20 @@ export default function App() {
                   <td className="text-center p-4"><Check className="w-5 h-5 text-green-400 mx-auto" /></td>
                   <td className="text-center p-4 bg-cyan-500/10"><Check className="w-5 h-5 text-cyan-400 mx-auto" /></td>
                 </tr>
+                <tr className="hover:bg-slate-800/50 transition-colors">
+                  <td className="p-4">Integrated Back End</td>
+                  <td className="text-center p-4"><Check className="w-5 h-5 text-green-400 mx-auto" /></td>
+                  <td className="text-center p-4"><X className="w-5 h-5 text-red-400 mx-auto" /></td>
+                  <td className="text-center p-4"><AlertCircle className="w-5 h-5 text-yellow-400 mx-auto" /></td>
+                  <td className="text-center p-4 bg-cyan-500/10"><X className="w-5 h-5 text-red-400 mx-auto" /></td>
+                </tr>
               </tbody>
             </table>
           </div>
 
           <div className="text-center mt-8">
             <p className="text-lg text-slate-300">
-              Rise is the only tool with all six checkmarks. <span className="font-bold text-cyan-400">We're not competing in a category—we're creating one.</span>
+              Rise is the only tool combining visual editing, AI generation, and clean code export. <span className="font-bold text-cyan-400">We're not competing in a category—we're creating one.</span>
             </p>
           </div>
         </div>
@@ -951,10 +958,10 @@ export default function App() {
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
-              <a href="https://github.com/yourusername/rise" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-bold text-lg hover:shadow-2xl hover:shadow-cyan-500/50 transition-all transform hover:scale-105 flex items-center gap-2">
+              <a href="https://github.com/The-Low-Code-Foundation/rise" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-bold text-lg hover:shadow-2xl hover:shadow-cyan-500/50 transition-all transform hover:scale-105 flex items-center gap-2">
                 <Star className="w-5 h-5" /> Star on GitHub
               </a>
-              <a href="https://discord.gg/yourinvite" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-white/10 backdrop-blur rounded-lg font-bold text-lg border border-white/20 hover:bg-white/20 transition-all flex items-center gap-2">
+              <a href="https://discord.gg/tGEhBck48m" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-white/10 backdrop-blur rounded-lg font-bold text-lg border border-white/20 hover:bg-white/20 transition-all flex items-center gap-2">
                 <MessageCircle className="w-5 h-5" /> Join Discord
               </a>
             </div>
@@ -1003,37 +1010,29 @@ export default function App() {
             <div>
               <h4 className="font-bold mb-4">Community</h4>
               <ul className="space-y-2 text-sm text-slate-400">
-                <li><a href="https://github.com/yourusername/rise" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors">GitHub</a></li>
-                <li><a href="https://discord.gg/yourinvite" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors">Discord</a></li>
-                <li><a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors">Twitter</a></li>
+                <li><a href="https://github.com/The-Low-Code-Foundation/rise" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors">GitHub</a></li>
+                <li><a href="https://discord.gg/tGEhBck48m" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors">Discord</a></li>
               </ul>
             </div>
 
             <div>
               <h4 className="font-bold mb-4">Resources</h4>
               <ul className="space-y-2 text-sm text-slate-400">
-                <li><a href="#" className="hover:text-cyan-400 transition-colors">Docs</a></li>
-                <li><a href="#" className="hover:text-cyan-400 transition-colors">Blog</a></li>
-                <li><a href="#" className="hover:text-cyan-400 transition-colors">Press Kit</a></li>
+                <li><a href="https://github.com/The-Low-Code-Foundation/rise/tree/main/docs" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-400 transition-colors">Docs</a></li>
               </ul>
             </div>
           </div>
 
           <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-slate-500">
-              © 2024 Rise. Open Source. MIT License.
+              © 2025 Rise. Open Source. MIT License.
             </p>
             <div className="flex items-center gap-4">
-              <a href="https://github.com/yourusername/rise" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
+              <a href="https://github.com/The-Low-Code-Foundation/rise" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
                 <Github className="w-5 h-5" />
               </a>
-              <a href="https://discord.gg/yourinvite" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
+              <a href="https://discord.gg/tGEhBck48m" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
                 <MessageCircle className="w-5 h-5" />
-              </a>
-              <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
-                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-                </svg>
               </a>
             </div>
           </div>
